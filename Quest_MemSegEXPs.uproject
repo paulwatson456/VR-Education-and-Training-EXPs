@@ -3,6 +3,16 @@
 	"EngineAssociation": "4.26",
 	"Category": "",
 	"Description": "",
+	"Modules": [
+		{
+			"Name": "Quest_MemSegEXPs",
+			"Type": "Runtime",
+			"LoadingPhase": "Default",
+			"AdditionalDependencies": [
+				"Engine"
+			]
+		}
+	],
 	"Plugins": [
 		{
 			"Name": "Substance",
